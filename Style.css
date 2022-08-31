@@ -16,7 +16,8 @@ p,a {
 option,select {
     background-color: black;
     font-size: 24px;
-    border-radius: 4px;
+    border-radius: 4
+    px;
 }
 h1 {
     font-size: 72px;
